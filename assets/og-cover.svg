@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#101827"/>
+<circle cx="960" cy="160" r="260" fill="#ff784f" opacity=".12"/>
+<path d="M0 500 1200 170" stroke="#ffffff" stroke-opacity=".08" stroke-width="2"/>
+<text x="100" y="250" fill="#ff784f" font-family="Arial" font-size="42" font-weight="bold">PORTFOLIO / 2026</text>
+<text x="100" y="360" fill="#f4f2ed" font-family="Arial" font-size="88" font-weight="bold">YOUR NAME.</text>
+<text x="100" y="430" fill="#a2adbc" font-family="Arial" font-size="34">Web Developer &amp; UI Designer</text>
+</svg>
